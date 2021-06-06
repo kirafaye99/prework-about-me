@@ -1,0 +1,6 @@
+There were a couple issues in the broken code.
+One of the first things I noticed when I opened the page in the browser is that there was no photo. This happed because there was no <> around img.
+There were also some problems in the js file. The click to grow or shrink boxes weren't working because the "click" wasn't in quotes.
+None of the js elements were working at first because the js file was not linked correctly.
+There was also a problem with the list because there was no <li> </li> around each list element.
+These are only the ones I can remember off the top of my head after completing the activity, but I'm sure there were other things I decoded, too.
